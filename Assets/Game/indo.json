@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "leftSwipeChoice": "Ya",
+      "rightSwipeChoice": "Tidak",
+      "description": "Yang Mulia, kami membutuhkan perlengkapan baru",
+      "speakerName": "Patih Gajah Mada",
+      "daysOfExecution": 5,
+      "cardFace": "face",
+      "leftChoice": {
+        "indicatorsWhichChanged": [0, 2],
+        "statesOfChangedIndicators": [0, 0],
+        "addedNumbers": [0.2, -0.2]
+      },
+      "rightChoice": {
+          "indicatorsWhichChanged": [0, 2],
+          "statesOfChangedIndicators": [0, 0],
+          "addedNumbers": [-0.2, 0.2]
+      }
+    },
+    {
+      "leftSwipeChoice": "Ya",
+      "rightSwipeChoice": "Tidak",
+      "description": "Yang Mulia, mari tingkatkan jumlah prajurit kita",
+      "speakerName": "Patih Gajah Mada",
+      "daysOfExecution": 10,
+      "cardFace": "face",
+      "leftChoice": {
+        "indicatorsWhichChanged": [0, 1],
+        "statesOfChangedIndicators": [0, 0],
+        "addedNumbers": [0.2, -0.2]
+      },
+      "rightChoice": {
+          "indicatorsWhichChanged": [0, 1],
+          "statesOfChangedIndicators": [0, 0],
+          "addedNumbers": [-0.2, 0.2]
+      }
+    },
+    {
+      "leftSwipeChoice": "Ya",
+      "rightSwipeChoice": "Tidak",
+      "description": "Yang Mulia, mari kita kuasai daerah baru",
+      "speakerName": "Patih Gajah Mada",
+      "daysOfExecution": 10,
+      "cardFace": "face",
+      "leftChoice": {
+        "indicatorsWhichChanged": [0, 1, 2],
+        "statesOfChangedIndicators": [1, 0, 0],
+        "addedNumbers": [0.3, -0.2, -0.2]
+      },
+      "rightChoice": {
+          "indicatorsWhichChanged": [0, 1, 2],
+          "statesOfChangedIndicators": [1, 0, 0],
+          "addedNumbers": [-0.3, 0.2, 0.2]
+      }
+    }
+  ]
+}

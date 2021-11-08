@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "leftSwipeChoice": "Yes",
+      "rightSwipeChoice": "No",
+      "description": "Your Majesty, we need new equipment",
+      "speakerName": "Patih Gajah Mada",
+      "daysOfExecution": 5,
+      "cardFace": "face",
+      "leftChoice": {
+        "indicatorsWhichChanged": [0, 2],
+        "statesOfChangedIndicators": [0, 0],
+        "addedNumbers": [0.2, -0.2]
+      },
+      "rightChoice": {
+          "indicatorsWhichChanged": [0, 2],
+          "statesOfChangedIndicators": [0, 0],
+          "addedNumbers": [-0.2, 0.2]
+      }
+    },
+    {
+      "leftSwipeChoice": "Yes",
+      "rightSwipeChoice": "No",
+      "description": "Your Majesty, let's increase the number of our soldiers",
+      "speakerName": "Patih Gajah Mada",
+      "daysOfExecution": 10,
+      "cardFace": "face",
+      "leftChoice": {
+        "indicatorsWhichChanged": [0, 1],
+        "statesOfChangedIndicators": [0, 0],
+        "addedNumbers": [0.2, -0.2]
+      },
+      "rightChoice": {
+          "indicatorsWhichChanged": [0, 1],
+          "statesOfChangedIndicators": [0, 0],
+          "addedNumbers": [-0.2, 0.2]
+      }
+    },
+    {
+      "leftSwipeChoice": "Yes",
+      "rightSwipeChoice": "No",
+      "description": "Your Majesty, let's conquer a new land",
+      "speakerName": "Patih Gajah Mada",
+      "daysOfExecution": 10,
+      "cardFace": "face",
+      "leftChoice": {
+        "indicatorsWhichChanged": [0, 1, 2],
+        "statesOfChangedIndicators": [1, 0, 0],
+        "addedNumbers": [0.3, -0.2, -0.2]
+      },
+      "rightChoice": {
+          "indicatorsWhichChanged": [0, 1, 2],
+          "statesOfChangedIndicators": [1, 0, 0],
+          "addedNumbers": [-0.3, 0.2, 0.2]
+      }
+    }
+  ]
+}
