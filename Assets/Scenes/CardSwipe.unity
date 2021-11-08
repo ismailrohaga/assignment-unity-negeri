@@ -186,7 +186,7 @@ MonoBehaviour:
   - {fileID: 4900000, guid: 5e19a36e3897c42aa9c0c91c9944c2fa, type: 3}
   - {fileID: 4900000, guid: 8c153c29830354d2dacd6b6ea957ad39, type: 3}
   - {fileID: 4900000, guid: 52dfeb1a0ab224ab1beb6a3a4345f577, type: 3}
-  language: 0
+  language: 2
   gameState: {fileID: 1178718240}
   gameOverCard: {fileID: 0}
   gameCard: {fileID: 89887615}
