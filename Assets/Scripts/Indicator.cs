@@ -37,8 +37,8 @@ public class Indicator : MonoBehaviour
 
         if (totalValueOfFiller <= 0)
         {
-            DeckManager.Instance.gameOverCard.SetActive(true);
-            DeckManager.Instance.gameCard.SetActive(false);
+            GameController.Instance.gameOverCard.SetActive(true);
+            GameController.Instance.gameCard.SetActive(false);
         }
     }
 

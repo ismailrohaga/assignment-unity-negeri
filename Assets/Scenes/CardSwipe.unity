@@ -182,11 +182,7 @@ MonoBehaviour:
   - {fileID: 1584028929}
   - {fileID: 1995537466}
   - {fileID: 1599699697}
-  jsonCard:
-  - {fileID: 4900000, guid: 5e19a36e3897c42aa9c0c91c9944c2fa, type: 3}
-  - {fileID: 4900000, guid: 8c153c29830354d2dacd6b6ea957ad39, type: 3}
-  - {fileID: 4900000, guid: 52dfeb1a0ab224ab1beb6a3a4345f577, type: 3}
-  language: 2
+  json: {fileID: 4900000, guid: 5787217d1b3fe4606805ba4d993a3b07, type: 3}
   gameState: {fileID: 1178718240}
   gameOverCard: {fileID: 0}
   gameCard: {fileID: 89887615}
@@ -1785,6 +1781,10 @@ PrefabInstance:
       propertyPath: cardFace
       value: 
       objectReference: {fileID: 1698270009748621575}
+    - target: {fileID: 1698270007781650099, guid: 63f2a59dfa5eb4f76847020995ab7cef, type: 3}
+      propertyPath: language
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1698270007781650099, guid: 63f2a59dfa5eb4f76847020995ab7cef, type: 3}
       propertyPath: description
       value: 

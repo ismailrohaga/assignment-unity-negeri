@@ -4,8 +4,8 @@ using UnityEngine;
 [Serializable]
 public class CardBindingImp : MonoBehaviour
 {
-    [SerializeField] private string leftSwipeChoice, rightSwipeChoice;
-    [SerializeField] private string description;
+    [SerializeField] private string[] leftSwipeChoice, rightSwipeChoice;
+    [SerializeField] private string[] description;
     [SerializeField] private string speakerName;
     [SerializeField] private int daysOfExecution;
     [SerializeField] private Sprite cardFace;
@@ -22,11 +22,11 @@ public class CardBindingImp : MonoBehaviour
         this.leftChoice = values.leftChoice;
         this.rightChoice = values.rightChoice;
     }
-    public void BindCard(CardLogic cardLogic)
+    public void BindCard(CardLogic cardLogic, int langIndex)
     {
-        cardLogic.leftSwipeChoice.text = leftSwipeChoice;
-        cardLogic.rightSwipeChoice.text = rightSwipeChoice;
-        cardLogic.description.text = description;
+        cardLogic.leftSwipeChoice.text = leftSwipeChoice[langIndex];
+        cardLogic.rightSwipeChoice.text = rightSwipeChoice[langIndex];
+        cardLogic.description.text = description[langIndex];
         cardLogic.speakerName.text = speakerName;
 
         //todo: find a way to serialize sprite

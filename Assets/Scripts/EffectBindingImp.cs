@@ -3,7 +3,7 @@
 [Serializable]
 public class EffectBindingImp
 {
-    public DeckManager.Indicators[] indicatorsWhichChanged;
+    public GameController.Indicators[] indicatorsWhichChanged;
     public Indicator.effectState[] statesOfChangedIndicators;
     public float[] addedNumbers;
 }

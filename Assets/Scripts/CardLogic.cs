@@ -4,23 +4,22 @@ using UnityEngine.SceneManagement;
 
 public class CardLogic : MonoBehaviour
 {
-    private DeckManager deckManager;
+    private GameController deckManager;
+    [SerializeField] private int language;
     [SerializeField] private CardBindingImp cardData;
     [SerializeField] private bool isGameOverCard;
     public Text leftSwipeChoice, rightSwipeChoice;
     public Text description;
     public Text speakerName;
     public Image cardFace;
-
     private void Start()
     {
-        deckManager = DeckManager.Instance;
+        deckManager = GameController.Instance;
 
         if (!isGameOverCard)
             cardData = deckManager.GetNextCard();
-        cardData.BindCard(this);
+        cardData.BindCard(this, language);
     }
-
     public void ConfirmChoice(bool isChoiceLeft)
     {
         if (!isGameOverCard)
@@ -33,7 +32,7 @@ public class CardLogic : MonoBehaviour
             deckManager.gameState.IncreaseDaysInPower(cardData.GetDaysOfExecution());
 
             cardData = deckManager.GetNextCard();
-            cardData.BindCard(this);
+            cardData.BindCard(this, language);
             deckManager.SetChangeSighOfIndicatorsToZero();
         }
         else

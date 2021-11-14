@@ -36,15 +36,15 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CardDatas.cs" />
-     <Compile Include="Assets\Scripts\DeckManager.cs" />
+     <Compile Include="Assets\Scripts\Scenario.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\GameInfoState.cs" />
      <Compile Include="Assets\Scripts\EffectBindingImp.cs" />
+     <Compile Include="Assets\Scripts\CardData.cs" />
      <Compile Include="Assets\Scripts\Indicator.cs" />
      <Compile Include="Assets\Scripts\CardControl.cs" />
      <Compile Include="Assets\Scripts\CardLogic.cs" />
      <Compile Include="Assets\Scripts\CardBindingImp.cs" />
-     <Compile Include="Assets\Scripts\CardData.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
