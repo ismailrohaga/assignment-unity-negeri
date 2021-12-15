@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BA4EF431-81F8-7422-1DD0-3415305EAE7C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CardBindingImp.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CardBindingImp.cs" Line="20" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NEGERI" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Models" expanded="True" />
+                  <Node name="CardBindingImp.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e1bc277-7af6-492f-8f87-d6da2802e14c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -7,19 +7,19 @@ public class Indicator : MonoBehaviour
     [SerializeField] private Image filler;
     private bool isAnimationRun;
     private float totalValueOfFiller;
-    public enum effectState { small = 0, large = 1 }
+    public enum EffectState { small = 0, large = 1 }
 
-    private void Update()
+    public void Update()
     {
         if (isAnimationRun)
             Animate();
     }
 
-    public void SetEffect(float degreeOfVisibility, effectState state)
+    public void SetEffect(float degreeOfVisibility, EffectState state)
     {
         effect.color = new Color(effect.color.r, effect.color.g, effect.color.b, Mathf.Abs(degreeOfVisibility));
 
-        if (state == effectState.small)
+        if (state == EffectState.small)
             effect.transform.localScale = new Vector3(0.6f, 0.6f, 1);
         else
             effect.transform.localScale = new Vector3(0.9f, 0.9f, 1);

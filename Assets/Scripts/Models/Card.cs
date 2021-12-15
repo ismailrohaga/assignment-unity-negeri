@@ -1,14 +1,13 @@
 ﻿using System;
-using UnityEngine;
 
 [Serializable]
-public class CardData
+public class Card
 {
     public string[] leftSwipeChoice, rightSwipeChoice;
     public string[] description;
     public string speakerName;
+    public int speakerId;
     public int daysOfExecution;
-    public Sprite cardFace;
-    public EffectBindingImp leftChoice;
-    public EffectBindingImp rightChoice;
+    public Effect leftChoice;
+    public Effect rightChoice;
 }

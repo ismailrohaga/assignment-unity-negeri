@@ -4,5 +4,5 @@ using System;
 public class Scenario
 {
     public string[] lang;
-    public CardData[] data;
+    public Card[] data;
 }

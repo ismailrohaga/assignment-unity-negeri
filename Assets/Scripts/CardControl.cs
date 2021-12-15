@@ -2,27 +2,27 @@ using UnityEngine;
 
 public class CardControl : MonoBehaviour
 {
-    [SerializeField] private float swingSpeed;
-    private CardLogic cardLogic;
+    [SerializeField] private readonly float swingSpeed;
+    private CardView cardLogic;
     private Vector3 offset;
     private Vector3 defaultPosition;
     private float zRotation;
     private bool isCardDragging = false;
     private bool isChoiceLeft;
 
-    private void Start()
+    public void Start()
     {
         defaultPosition = transform.position;
-        cardLogic = GetComponentInParent<CardLogic>();
+        cardLogic = GetComponentInParent<CardView>();
     }
 
-    private void Update()
+    public void Update()
     {
         if (!isCardDragging)
             ReturnToDefaultPosition();
     }
 
-    private void OnMouseDown()
+    public void OnMouseDown()
     {
         isCardDragging = true;
 
@@ -30,7 +30,7 @@ public class CardControl : MonoBehaviour
             Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, 10f));
     }
 
-    private void OnMouseUp()
+    public void OnMouseUp()
     {
         isCardDragging = false;
 
@@ -38,7 +38,7 @@ public class CardControl : MonoBehaviour
             cardLogic.ConfirmChoice(isChoiceLeft);
     }
 
-    private void OnMouseDrag()
+    public void OnMouseDrag()
     {
         zRotation = SetDirectionOfRotation(Mathf.Abs(transform.position.x * 6.5f));
 

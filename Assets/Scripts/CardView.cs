@@ -2,38 +2,39 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class CardLogic : MonoBehaviour
+public class CardView : MonoBehaviour
 {
-    private GameController deckManager;
+    private GameController gameController;
+    private CardBindingImp cardBinding;
     [SerializeField] private int language;
-    [SerializeField] private CardBindingImp cardData;
     [SerializeField] private bool isGameOverCard;
     public Text leftSwipeChoice, rightSwipeChoice;
     public Text description;
     public Text speakerName;
-    public Image cardFace;
-    private void Start()
+    public Animator animator;
+
+    public void Start()
     {
-        deckManager = GameController.Instance;
+        gameController = GameController.Instance;
 
         if (!isGameOverCard)
-            cardData = deckManager.GetNextCard();
-        cardData.BindCard(this, language);
+            cardBinding = gameController.GetNextCard();
+        cardBinding.BindCard(this, language);
     }
+
     public void ConfirmChoice(bool isChoiceLeft)
     {
         if (!isGameOverCard)
         {
             if (isChoiceLeft)
-                deckManager.UpdateIndicator(cardData.leftChoice);
+                gameController.UpdateIndicator(cardBinding.leftChoice);
             else
-                deckManager.UpdateIndicator(cardData.rightChoice);
+                gameController.UpdateIndicator(cardBinding.rightChoice);
 
-            deckManager.gameState.IncreaseDaysInPower(cardData.GetDaysOfExecution());
-
-            cardData = deckManager.GetNextCard();
-            cardData.BindCard(this, language);
-            deckManager.SetChangeSighOfIndicatorsToZero();
+            gameController.gameState.IncreaseDaysInPower(cardBinding.GetDaysOfExecution());
+            cardBinding = gameController.GetNextCard();
+            cardBinding.BindCard(this, language);
+            gameController.SetChangeSighOfIndicatorsToZero();
         }
         else
         {
@@ -66,6 +67,6 @@ public class CardLogic : MonoBehaviour
 
     private void UpdateIndicatorsVisibility(float degreeOfVisibility)
     {
-        deckManager.SetChangeSignOfIndicators(degreeOfVisibility, cardData.leftChoice, cardData.rightChoice);
+        gameController.SetChangeSignOfIndicators(degreeOfVisibility, cardBinding.leftChoice, cardBinding.rightChoice);
     }
 }

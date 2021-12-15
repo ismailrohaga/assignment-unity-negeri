@@ -19,7 +19,7 @@
       ],
       "speakerName": "Patih Gajah Mada",
       "daysOfExecution": 5,
-      "cardFace": "face",
+      "speakerId": 0,
       "leftChoice": {
         "indicatorsWhichChanged": [0, 2],
         "statesOfChangedIndicators": [0, 0],
@@ -32,64 +32,64 @@
       }
     },
     {
-      "leftSwipeChoice": [
-        "Yes",
-        "Ya",
-        "Muhun"
-      ],
-      "rightSwipeChoice": [
-        "No",
-        "Tidak",
-        "Ulah"
-      ],
-      "description": [
-        "Your Majesty, let's increase the number of our soldiers",
-        "Yang Mulia, mari tingkatkan jumlah prajurit kita",
-        "Nu Maha Agung, mari tingkatkan jumlah prajurit kita"
-      ],
-      "speakerName": "Patih Gajah Mada",
-      "daysOfExecution": 10,
-      "cardFace": "face",
-      "leftChoice": {
-        "indicatorsWhichChanged": [0, 1],
-        "statesOfChangedIndicators": [0, 0],
-        "addedNumbers": [0.2, -0.2]
-      },
-      "rightChoice": {
-          "indicatorsWhichChanged": [0, 1],
-          "statesOfChangedIndicators": [0, 0],
-          "addedNumbers": [-0.2, 0.2]
-      }
+        "leftSwipeChoice": [
+            "Yes",
+            "Ya",
+            "Muhun"
+        ],
+        "rightSwipeChoice": [
+            "No",
+            "Tidak",
+            "Ulah"
+        ],
+        "description": [
+            "Your Majesty, let's increase the number of our soldiers",
+            "Yang Mulia, mari tingkatkan jumlah prajurit kita",
+            "Nu Maha Agung, mari tingkatkan jumlah prajurit kita"
+        ],
+        "speakerName": "Patih Gajah Mada",
+        "daysOfExecution": 10,
+        "speakerId": 0,
+        "leftChoice": {
+            "indicatorsWhichChanged": [ 0, 1 ],
+            "statesOfChangedIndicators": [ 0, 0 ],
+            "addedNumbers": [ 0.2, -0.2 ]
+        },
+        "rightChoice": {
+            "indicatorsWhichChanged": [ 0, 1 ],
+            "statesOfChangedIndicators": [ 0, 0 ],
+            "addedNumbers": [ -0.2, 0.2 ]
+        }
     },
     {
-      "leftSwipeChoice": [
-        "Yes",
-        "Ya",
-        "Muhun"
-      ],
-      "rightSwipeChoice": [
-        "No",
-        "Tidak",
-        "Ulah"
-      ],
-      "description": [
-        "Your Majesty, let's conquer a new land",
-        "Yang Mulia, mari kita kuasai daerah baru",
-        "Nu Maha Agung, hayu urang nalukkeun wewengkon anyar"
-      ],
-      "speakerName": "Patih Gajah Mada",
-      "daysOfExecution": 10,
-      "cardFace": "face",
-      "leftChoice": {
-        "indicatorsWhichChanged": [0, 1, 2],
-        "statesOfChangedIndicators": [1, 0, 0],
-        "addedNumbers": [0.3, -0.2, -0.2]
-      },
-      "rightChoice": {
-          "indicatorsWhichChanged": [0, 1, 2],
-          "statesOfChangedIndicators": [1, 0, 0],
-          "addedNumbers": [-0.3, 0.2, 0.2]
-      }
+        "leftSwipeChoice": [
+            "Yes",
+            "Ya",
+            "Muhun"
+        ],
+        "rightSwipeChoice": [
+            "No",
+            "Tidak",
+            "Ulah"
+        ],
+        "description": [
+            "Your Majesty, let's conquer a new land",
+            "Yang Mulia, mari kita kuasai daerah baru",
+            "Nu Maha Agung, hayu urang nalukkeun wewengkon anyar"
+        ],
+        "speakerName": "Patih Gajah Mada",
+        "daysOfExecution": 10,
+        "speakerId": 0,
+        "leftChoice": {
+            "indicatorsWhichChanged": [ 0, 1, 2 ],
+            "statesOfChangedIndicators": [ 1, 0, 0 ],
+            "addedNumbers": [ 0.3, -0.2, -0.2 ]
+        },
+        "rightChoice": {
+            "indicatorsWhichChanged": [ 0, 1, 2 ],
+            "statesOfChangedIndicators": [ 1, 0, 0 ],
+            "addedNumbers": [ -0.3, 0.2, 0.2 ]
+        }
     }
   ]
 }

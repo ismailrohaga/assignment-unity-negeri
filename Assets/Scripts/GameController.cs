@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
+    [SerializeField] private RuntimeAnimatorController[] animators;
     [SerializeField] private Indicator[] indicators;
     [SerializeField] private TextAsset json;
     public static GameController Instance { get; set; }
@@ -9,8 +10,9 @@ public class GameController : MonoBehaviour
     public GameObject gameOverCard;
     public GameObject gameCard;
     private Scenario scenario;
-    private int lastIndex = 0;
-    private void Awake()
+    private int lastIndex;
+
+    public void Awake()
     {
         if (Instance == null)
             Instance = this;
@@ -24,27 +26,25 @@ public class GameController : MonoBehaviour
 
     public CardBindingImp GetNextCard()
     {
-        //Debug.Log("card index: " + lastIndex);
-        CardBindingImp card = new CardBindingImp(scenario.data[lastIndex]);
-        if (lastIndex < scenario.data.Length - 1)
-            lastIndex++;
-        else
-            lastIndex = 0;
+        lastIndex = Random.Range(0, scenario.data.Length);
 
-        return card;
+        Card card = scenario.data[lastIndex];
+        CardBindingImp cardBindingImp = new CardBindingImp(card, animators[card.speakerId]);
+
+        return cardBindingImp;
     }
 
     public void SetChangeSignOfIndicators(
         float degreeOfVisibility, 
-        EffectBindingImp leftChoice, 
-        EffectBindingImp rightChoice
+        Effect leftChoice, 
+        Effect rightChoice
         )
     {
         GameController.Indicators[] rightIndicators = rightChoice.indicatorsWhichChanged;
-        Indicator.effectState[] rightStates = rightChoice.statesOfChangedIndicators;
+        Indicator.EffectState[] rightStates = rightChoice.statesOfChangedIndicators;
 
         GameController.Indicators[] leftIndicators = leftChoice.indicatorsWhichChanged;
-        Indicator.effectState[] leftStates = leftChoice.statesOfChangedIndicators;
+        Indicator.EffectState[] leftStates = leftChoice.statesOfChangedIndicators;
 
         if (degreeOfVisibility <= 0)
         {
@@ -73,7 +73,7 @@ public class GameController : MonoBehaviour
         }
     }
 
-    public void UpdateIndicator(EffectBindingImp confirmedChoice)
+    public void UpdateIndicator(Effect confirmedChoice)
     {
         GameController.Indicators[] indicators = confirmedChoice.indicatorsWhichChanged;
         float[] addedNumbers = confirmedChoice.addedNumbers;

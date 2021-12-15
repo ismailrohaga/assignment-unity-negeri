@@ -1,9 +1,9 @@
 ﻿using System;
 
 [Serializable]
-public class EffectBindingImp
+public class Effect
 {
     public GameController.Indicators[] indicatorsWhichChanged;
-    public Indicator.effectState[] statesOfChangedIndicators;
+    public Indicator.EffectState[] statesOfChangedIndicators;
     public float[] addedNumbers;
 }
