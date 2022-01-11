@@ -1,25 +1,47 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameController : MonoBehaviour
 {
     [SerializeField] private RuntimeAnimatorController[] animators;
     [SerializeField] private Indicator[] indicators;
-    [SerializeField] private TextAsset json;
+    [SerializeField] private TextAsset[] json;
+    [SerializeField] private Sprite[] deckImage;
+    [SerializeField] public Image backgroundImage;
+
     public static GameController Instance { get; set; }
     public GameInfoState gameState;
     public GameObject gameOverCard;
     public GameObject gameCard;
     private Scenario scenario;
     private int lastIndex;
+    private int deck;
+    private bool isChangeDeck = false;
 
     public void Awake()
     {
+        deck = 0;
+
         if (Instance == null)
             Instance = this;
         else
             Destroy(Instance);
 
-        scenario = JsonUtility.FromJson<Scenario>(json.text);
+        SetScenario();
+    }
+
+    public void Update()
+    {
+        if (isChangeDeck)
+        {
+            SetScenario();
+        }
+    }
+
+    void SetScenario()
+    {
+        scenario = JsonUtility.FromJson<Scenario>(json[deck].text);
+        backgroundImage.sprite = deckImage[deck];
     }
 
     public enum Indicators { Military = 0, People = 1, Economy = 2 }
@@ -35,8 +57,8 @@ public class GameController : MonoBehaviour
     }
 
     public void SetChangeSignOfIndicators(
-        float degreeOfVisibility, 
-        Effect leftChoice, 
+        float degreeOfVisibility,
+        Effect leftChoice,
         Effect rightChoice
         )
     {
@@ -86,9 +108,15 @@ public class GameController : MonoBehaviour
 
     public void SetChangeSighOfIndicatorsToZero()
     {
-        for (int  i = 0; i < indicators.Length; i++)
+        for (int i = 0; i < indicators.Length; i++)
         {
             indicators[i].SetEffectToZero();
         }
+    }
+
+    public void ChangeDeck(int deck)
+    {
+        isChangeDeck = true;
+        this.deck = deck;
     }
 }

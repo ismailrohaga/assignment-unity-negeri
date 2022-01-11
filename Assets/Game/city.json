@@ -1,0 +1,252 @@
+{
+    "lang": [ "id", "en", "fr" ],
+    "data": [
+        {
+            "leftSwipeChoice": [
+                "Kawal para pedagang!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Bukankah sudah cukup?!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, kami membutuhkan pengawal untuk para pedagang",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Nakula",
+            "daysOfExecution": 5,
+            "speakerId": 3,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 0, 2 ],
+                "addedNumbers": [ -0.1, 0, 0.3 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 0, 2 ],
+                "addedNumbers": [ 0, 0, -0.3 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Ide bagus!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Menurutku sekarang sudah cukup",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, mari kita naikan pajak",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Nakula",
+            "daysOfExecution": 3,
+            "speakerId": 3,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, -0.2, 0.3 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, 0.2, -0.1 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Kau benar, suruh penjaga untuk mengerahkan rakyat",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Menurutku sekarang sudah cukup",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Sepertinya jam kerja rakyat harus ditambah",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Nakula",
+            "daysOfExecution": 7,
+            "speakerId": 3,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, -0.2, 0.3 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, 0.2, -0.2 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Jika penawarannya bagus, silahkan saja",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Tentara kita butuh senjata!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, mari kita jual senjata kita ke negara lain",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Nakula",
+            "daysOfExecution": 3,
+            "speakerId": 3,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 2, 0, 2 ],
+                "addedNumbers": [ -0.2, 0, 0.2 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 0, 0 ],
+                "addedNumbers": [ 0.1, 0, 0 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Kumpulkan para relawan! bantu rakyat!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Tidak!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, kami membutuhkan bantuan sosial",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Bagong",
+            "daysOfExecution": 5,
+            "speakerId": 2,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 1, 1 ],
+                "addedNumbers": [ 0, 0.1, -0.1 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 1, 1 ],
+                "addedNumbers": [ 0, -0.1, 0.1 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Tidak ada dana untuk itu!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Rawatlah mereka dengan baik!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, mari kita buat panti asuhan",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Bagong",
+            "daysOfExecution": 5,
+            "speakerId": 2,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 0, 0 ],
+                "addedNumbers": [ 0, 0, 0 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 0, 0 ],
+                "addedNumbers": [ 0, 0, 0 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Buat anggaran untuk perlengkapan baru!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Kita tidak butuh itu sekarang!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, kami membutuhkan perlengkapan baru",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Gajah Mada",
+            "daysOfExecution": 3,
+            "speakerId": 0,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 0, 1 ],
+                "addedNumbers": [ 0.1, 0, -0.1 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 2, 0, 1 ],
+                "addedNumbers": [ -0.2, 0, 0.1 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Jendral!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Tidak untuk sekarang",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Mari kita lakukan ekspedisi militer",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Semar",
+            "daysOfExecution": 7,
+            "speakerId": 1,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 0, 1 ],
+                "addedNumbers": [ 0.1, 0, -0.1 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 2, 0, 1 ],
+                "addedNumbers": [ -0.2, 0, 0.1 ]
+            }
+        }
+    ]
+}

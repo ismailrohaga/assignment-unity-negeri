@@ -56,15 +56,17 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/GameController.cs" />
-    <Compile Include="Assets/Scripts/GameInfoState.cs" />
-    <Compile Include="Assets/Scripts/Indicator.cs" />
-    <Compile Include="Assets/Scripts/CardControl.cs" />
-    <Compile Include="Assets/Scripts/CardBindingImp.cs" />
     <Compile Include="Assets/Scripts/Models/Scenario.cs" />
-    <Compile Include="Assets/Scripts/Models/Effect.cs" />
     <Compile Include="Assets/Scripts/Models/Card.cs" />
-    <Compile Include="Assets/Scripts/CardView.cs" />
+    <Compile Include="Assets/Scripts/GameController.cs" />
+    <Compile Include="Assets/Scripts/Models/Effect.cs" />
+    <Compile Include="Assets/Scripts/Views/Card/CardView.cs" />
+    <Compile Include="Assets/Scripts/Views/Indicator/GameInfoState.cs" />
+    <Compile Include="Assets/Scripts/Utils/Timer.cs" />
+    <Compile Include="Assets/Scripts/Views/Indicator/Indicator.cs" />
+    <Compile Include="Assets/Scripts/Views/Card/CardControl.cs" />
+    <Compile Include="Assets/Scripts/Views/Indicator/PowerCard.cs" />
+    <Compile Include="Assets/Scripts/Views/Card/CardBindingImp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

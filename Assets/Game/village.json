@@ -1,0 +1,252 @@
+{
+    "lang": [ "id", "en", "fr" ],
+    "data": [
+        {
+            "leftSwipeChoice": [
+                "Tidak ada dana untuk itu!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Rawatlah mereka dengan baik!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, mari kita buat panti asuhan",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Bagong",
+            "daysOfExecution": 3,
+            "speakerId": 2,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 1, 2 ],
+                "addedNumbers": [ 0, 0.2, -0.2 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 1, 0 ],
+                "addedNumbers": [ 0, -0.1, 0 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Tarik mundur para penjaga!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Ini demi keamanan kalian!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Rakyat merasa resah dengan banyaknya penjaga di desa",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Bagong",
+            "daysOfExecution": 1,
+            "speakerId": 2,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 2, 0 ],
+                "addedNumbers": [ -0.1, 0.2, 0 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 1, 0 ],
+                "addedNumbers": [ 0.1, -0.1, 0 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Anggaran sudah dialihkan untuk militer",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Asal kalian menjaganya dengan baik",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, mohon tingkatkan kualitas fasilitas umum",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Bagong",
+            "daysOfExecution": 5,
+            "speakerId": 2,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 0 ],
+                "addedNumbers": [ 0, -0.2, 0 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 2, 2, 0 ],
+                "addedNumbers": [ -0.2, 0.2, -0.2 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Baiklah",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Diam kau!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, kami butuh penjagaan",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Bagong",
+            "daysOfExecution": 3,
+            "speakerId": 2,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 2, 0 ],
+                "addedNumbers": [ -0.1, 0.2, 0 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 0 ],
+                "addedNumbers": [ 0, -0.2, 0 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Kau benar!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Sekarang sudah cukup",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, sepertinya kita perlu menambah penjaga di kerajaan",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Gajah Mada",
+            "daysOfExecution": 3,
+            "speakerId": 1,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 2, 0 ],
+                "addedNumbers": [ -0.1, 0.2, 0 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 0 ],
+                "addedNumbers": [ 0, -0.1, 0 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Kau benar! buatlah barisan!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Kita sudah punya cukup banyak",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, mari tingkatkan jumlah prajurit kita",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Gajah Mada",
+            "daysOfExecution": 5,
+            "speakerId": 0,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 2, 0 ],
+                "addedNumbers": [ 0.2, -0.3, 0 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 1, 1, 0 ],
+                "addedNumbers": [ -0.2, 0.1, 0 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Untuk apa? aku butuh lahan yang banyak!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Jika penawarannya bagus, silahkan saja",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, saya menyarankan untuk menjual sebagian tanah kerajaan ini",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Nakula",
+            "daysOfExecution": 3,
+            "speakerId": 3,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, 0.2, -0.2 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, -0.2, 0.2 ]
+            }
+        },
+
+        {
+            "leftSwipeChoice": [
+                "Ide bagus!",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "rightSwipeChoice": [
+                "Menurutku sekarang sudah cukup",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "description": [
+                "Yang Mulia, mari kita naikan pajak",
+                "isi englishnya",
+                "isi francais nya"
+            ],
+            "speakerName": "Nakula",
+            "daysOfExecution": 5,
+            "speakerId": 3,
+            "leftChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, -0.2, 0.3 ]
+            },
+            "rightChoice": {
+                "indicatorsWhichChanged": [ 0, 1, 2 ],
+                "statesOfChangedIndicators": [ 0, 2, 2 ],
+                "addedNumbers": [ 0, 0.2, -0.1 ]
+            }
+        }
+    ]
+}

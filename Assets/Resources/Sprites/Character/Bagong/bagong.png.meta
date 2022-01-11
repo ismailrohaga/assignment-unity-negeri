@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 50da2ad2d6a4c47b19bdcad6e755922d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2290242734476936366
+    second: bagong-idle_0
+  - first:
+      213: 6422165310585835106
+    second: bagong-idle_1
+  - first:
+      213: -4599624154534040898
+    second: bagong-idle_2
+  - first:
+      213: -7827399786802761044
+    second: bagong-idle_3
+  - first:
+      213: -2470297968662538247
+    second: bagong-idle_4
+  - first:
+      213: -3703400826429781740
+    second: bagong-idle_5
+  - first:
+      213: 8694515076537516552
+    second: bagong-idle_6
+  - first:
+      213: 2669205628964612384
+    second: bagong-idle_7
+  - first:
+      213: -856337467238719115
+    second: bagong-idle_8
+  - first:
+      213: 623903242210543796
+    second: bagong-idle_9
+  - first:
+      213: -3492675043946464
+    second: bagong-idle_10
+  - first:
+      213: 7876570240270779857
+    second: bagong-idle_11
+  - first:
+      213: -5410127905018013688
+    second: bagong-idle_12
+  - first:
+      213: -462950405272450776
+    second: bagong-idle_13
+  - first:
+      213: 2838303898205427125
+    second: bagong-idle_14
+  - first:
+      213: 976556544875460217
+    second: bagong-idle_15
+  - first:
+      213: -5233951950753889515
+    second: bagong-idle_16
+  - first:
+      213: 2682777672389488936
+    second: bagong-idle_17
+  - first:
+      213: 8558549508436800638
+    second: bagong-idle_18
+  - first:
+      213: -7271631424004684677
+    second: bagong-idle_19
+  - first:
+      213: -4456412060460088169
+    second: bagong-idle_20
+  - first:
+      213: -7866470052948154892
+    second: bagong-idle_21
+  - first:
+      213: -969818255165896654
+    second: bagong-idle_22
+  - first:
+      213: -275819062844927330
+    second: bagong-idle_23
+  - first:
+      213: -4499590441748877261
+    second: bagong-idle_24
+  - first:
+      213: -5878395359946499328
+    second: bagong-idle_25
+  - first:
+      213: 8954617223685298957
+    second: bagong-idle_26
+  - first:
+      213: -7360912755990167377
+    second: bagong-idle_27
+  - first:
+      213: -3052000055914606672
+    second: bagong-idle_28
+  - first:
+      213: -6099520386375683465
+    second: bagong-idle_29
+  - first:
+      213: -3654682462794948135
+    second: bagong-idle_30
+  - first:
+      213: 5853957080731204415
+    second: bagong-idle_31
+  - first:
+      213: 6216666836375460000
+    second: bagong-idle_32
+  - first:
+      213: -8741414643651438796
+    second: bagong-idle_33
+  - first:
+      213: -7932752431443373381
+    second: bagong-idle_34
+  - first:
+      213: 2416062605625162034
+    second: bagong-idle_35
+  - first:
+      213: 486533600476494871
+    second: bagong-idle_36
+  - first:
+      213: -4696443943244318831
+    second: bagong-idle_37
+  - first:
+      213: -3044404992768384880
+    second: bagong-idle_38
+  - first:
+      213: 6411383287459454237
+    second: bagong-idle_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bagong-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4caedf1a398cf10800000000000000
+      internalID: 2290242734476936366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_1
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0e4ae25d102950800000000000000
+      internalID: 6422165310585835106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_2
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba21b8833ada20c0800000000000000
+      internalID: -4599624154534040898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_3
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca237a08d5d7f5390800000000000000
+      internalID: -7827399786802761044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_4
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f71080f51db7bdd0800000000000000
+      internalID: -2470297968662538247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_5
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c3cfd190ea9cc0800000000000000
+      internalID: -3703400826429781740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_6
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020c47856f19a870800000000000000
+      internalID: 8694515076537516552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029a8e2a06cea0520800000000000000
+      internalID: 2669205628964612384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_8
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e0615c9dad14f0800000000000000
+      internalID: -856337467238719115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_9
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88c2671bc88a800800000000000000
+      internalID: 623903242210543796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_10
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02090b83e6793fff0800000000000000
+      internalID: -3492675043946464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_11
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5c0c3d6e23f4d60800000000000000
+      internalID: 7876570240270779857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_12
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80819ff955d5be4b0800000000000000
+      internalID: -5410127905018013688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_13
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829cc192f054399f0800000000000000
+      internalID: -462950405272450776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b514218b5ea36720800000000000000
+      internalID: 2838303898205427125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_15
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9767268e00d6d8d00800000000000000
+      internalID: 976556544875460217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_16
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5130ad37e644d57b0800000000000000
+      internalID: -5233951950753889515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_17
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ff1e34142b3520800000000000000
+      internalID: 2682777672389488936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_18
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7438face6316c670800000000000000
+      internalID: 8558549508436800638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_19
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7402a22fb9f51b90800000000000000
+      internalID: -7271631424004684677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_20
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794828397d4a722c0800000000000000
+      internalID: -4456412060460088169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e6c94a2fa4d290800000000000000
+      internalID: -7866470052948154892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_22
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c52c6f638a82f0800000000000000
+      internalID: -969818255165896654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_23
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d8d016081c2cf0800000000000000
+      internalID: -275819062844927330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_24
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b0d4455e3e81c0800000000000000
+      internalID: -4499590441748877261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_25
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b9511b09ebb6ea0800000000000000
+      internalID: -5878395359946499328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_26
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b5b5ddbe0354c70800000000000000
+      internalID: 8954617223685298957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_27
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0809429d8c8d990800000000000000
+      internalID: -7360912755990167377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfccbc8e1e15a5d0800000000000000
+      internalID: -3052000055914606672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_29
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f2d576862a5ba0800000000000000
+      internalID: -6099520386375683465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_30
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e146d9a5f74dc0800000000000000
+      internalID: -3654682462794948135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_31
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bbd5703fe6d3150800000000000000
+      internalID: 5853957080731204415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_32
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85c15ec89064650800000000000000
+      internalID: 6216666836375460000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_33
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43712c212b140b680800000000000000
+      internalID: -8741414643651438796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb293b071b339e190800000000000000
+      internalID: -7932752431443373381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_35
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23974639324978120800000000000000
+      internalID: 2416062605625162034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_36
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c71bb5bb380c600800000000000000
+      internalID: 486533600476494871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_37
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197336fcd11e2deb0800000000000000
+      internalID: -4696443943244318831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_38
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906d9df9c910c5d0800000000000000
+      internalID: -3044404992768384880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bagong-idle_39
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d95e7812fc9f850800000000000000
+      internalID: 6411383287459454237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 9d8d29633567b43dead4f17ad522d78a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8137856456841970626
+    second: nakula-idle_0
+  - first:
+      213: -5642049024955986215
+    second: nakula-idle_1
+  - first:
+      213: 4168863995794939279
+    second: nakula-idle_2
+  - first:
+      213: 5393865467818931871
+    second: nakula-idle_3
+  - first:
+      213: -2278809941083458938
+    second: nakula-idle_4
+  - first:
+      213: 643956894868190246
+    second: nakula-idle_5
+  - first:
+      213: -5456796165771711581
+    second: nakula-idle_6
+  - first:
+      213: 6833626816203447972
+    second: nakula-idle_7
+  - first:
+      213: -9102894445763007929
+    second: nakula-idle_8
+  - first:
+      213: -8159255933109963427
+    second: nakula-idle_9
+  - first:
+      213: 7787280064929939818
+    second: nakula-idle_10
+  - first:
+      213: 7953552231185462847
+    second: nakula-idle_11
+  - first:
+      213: -1285991622370682527
+    second: nakula-idle_12
+  - first:
+      213: 3629085407842140342
+    second: nakula-idle_13
+  - first:
+      213: -1618162792545109769
+    second: nakula-idle_14
+  - first:
+      213: -3238441311744889254
+    second: nakula-idle_15
+  - first:
+      213: 7914856333628875044
+    second: nakula-idle_16
+  - first:
+      213: 9049447180840630257
+    second: nakula-idle_17
+  - first:
+      213: -3302393829253177023
+    second: nakula-idle_18
+  - first:
+      213: 4347323364782964599
+    second: nakula-idle_19
+  - first:
+      213: -2912428630421058900
+    second: nakula-idle_20
+  - first:
+      213: 2087941188533666731
+    second: nakula-idle_21
+  - first:
+      213: -2571946531815410316
+    second: nakula-idle_22
+  - first:
+      213: -3441754393051003839
+    second: nakula-idle_23
+  - first:
+      213: 3603692125942782125
+    second: nakula-idle_24
+  - first:
+      213: -147413111053789244
+    second: nakula-idle_25
+  - first:
+      213: -3872161602776099747
+    second: nakula-idle_26
+  - first:
+      213: 1757999819076101038
+    second: nakula-idle_27
+  - first:
+      213: -8731635191313408078
+    second: nakula-idle_28
+  - first:
+      213: -3696971601535591510
+    second: nakula-idle_29
+  - first:
+      213: 3909758670378854877
+    second: nakula-idle_30
+  - first:
+      213: 554176768553499013
+    second: nakula-idle_31
+  - first:
+      213: 2222529664273406094
+    second: nakula-idle_32
+  - first:
+      213: -3919900840634146593
+    second: nakula-idle_33
+  - first:
+      213: 7102643013902978320
+    second: nakula-idle_34
+  - first:
+      213: 6486277115879035454
+    second: nakula-idle_35
+  - first:
+      213: -2805120350078363446
+    second: nakula-idle_36
+  - first:
+      213: -5619264296707283904
+    second: nakula-idle_37
+  - first:
+      213: -3183954625967909133
+    second: nakula-idle_38
+  - first:
+      213: -3997295221510714992
+    second: nakula-idle_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nakula-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34f2fc4597fe070800000000000000
+      internalID: 8137856456841970626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_1
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dec82efd4a63b1b0800000000000000
+      internalID: -5642049024955986215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_2
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd54277b7cad930800000000000000
+      internalID: 4168863995794939279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_3
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f797a01cdada40800000000000000
+      internalID: 5393865467818931871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_4
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827717ae6a0060e0800000000000000
+      internalID: -2278809941083458938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_5
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6243841526bcfe800800000000000000
+      internalID: 643956894868190246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_6
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 5130
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba67f6cc09544b0800000000000000
+      internalID: -5456796165771711581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed36b126be5de50800000000000000
+      internalID: 6833626816203447972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_8
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a6b641bb50ca180800000000000000
+      internalID: -9102894445763007929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_9
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557b7b55ff74ce80800000000000000
+      internalID: -8159255933109963427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_10
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6141a4d5f9f11c60800000000000000
+      internalID: 7787280064929939818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_11
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3633525d91b06e60800000000000000
+      internalID: 7953552231185462847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_12
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699774de6d372ee0800000000000000
+      internalID: -1285991622370682527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_13
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 4104
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b00cf163f91d5230800000000000000
+      internalID: 3629085407842140342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8389973812b89e0800000000000000
+      internalID: -1618162792545109769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_15
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eee73f8cebe03d0800000000000000
+      internalID: -3238441311744889254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_16
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421233696e737dd60800000000000000
+      internalID: 7914856333628875044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_17
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f77aa3d348169d70800000000000000
+      internalID: 9049447180840630257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_18
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412ce22f4a8b22d0800000000000000
+      internalID: -3302393829253177023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_19
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff4a1319bc45c30800000000000000
+      internalID: 4347323364782964599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_20
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 3078
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa43126799f497d0800000000000000
+      internalID: -2912428630421058900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3c476d27bd9fc10800000000000000
+      internalID: 2087941188533666731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_22
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47538dd814c9e4cd0800000000000000
+      internalID: -2571946531815410316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_23
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440e0e5d9e6c30d0800000000000000
+      internalID: -3441754393051003839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_24
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da811b635e2e20230800000000000000
+      internalID: 3603692125942782125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_25
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c757687e8844fdf0800000000000000
+      internalID: -147413111053789244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_26
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d549f91b981534ac0800000000000000
+      internalID: -3872161602776099747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_27
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 2052
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36b3b658ba56810800000000000000
+      internalID: 1757999819076101038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd6714e0003d680800000000000000
+      internalID: -8731635191313408078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_29
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab93c17ae7b1bcc0800000000000000
+      internalID: -3696971601535591510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_30
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96f61cbc0424630800000000000000
+      internalID: 3909758670378854877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_31
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b768b5d4d0b700800000000000000
+      internalID: 554176768553499013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_32
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88d8c544f208de10800000000000000
+      internalID: 2222529664273406094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_33
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 1026
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02f3734f6b999c0800000000000000
+      internalID: -3919900840634146593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc8129038a19260800000000000000
+      internalID: 7102643013902978320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_35
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3217becba2e30a50800000000000000
+      internalID: 6486277115879035454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_36
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac81c5d57e53219d0800000000000000
+      internalID: -2805120350078363446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_37
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0442abfe4ec5402b0800000000000000
+      internalID: -5619264296707283904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_38
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f69832132250d3d0800000000000000
+      internalID: -3183954625967909133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nakula-idle_39
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 0
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099cc73bc21c688c0800000000000000
+      internalID: -3997295221510714992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
